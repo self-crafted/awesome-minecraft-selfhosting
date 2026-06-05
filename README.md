@@ -7,22 +7,25 @@
 ## Proxies
 
 ### Implementations
-https://gate.minekube.com/
-velocity
+- [Gate](https://github.com/minekube/gate)
+- [Velocity](https://github.com/PaperMC/Velocity)
 
 ### Plugins
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion)
 
 
 ## Servers
-Minestom
-z
 
+### Libraries
+- [Minestom](https://github.com/Minestom/Minestom)
 
-## Modloaders
-
-Fabric/Quilt
-
+### Mods
+- [Slumber](https://github.com/Tater-Certified/Slumber)
+- [Lithium](https://github.com/CaffeineMC/lithium)
+- [Clumps](https://github.com/jaredlll08/Clumps)
+- [Krypton](https://github.com/astei/krypton)
+- [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports)
+- [FerriteCore](https://github.com/malte0811/FerriteCore)
 
 ## Services
 
