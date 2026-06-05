@@ -6,13 +6,17 @@
 
 ## Proxies
 
+### Implementations
 https://gate.minekube.com/
 velocity
 
+### Plugins
+- [ViaVersion](https://github.com/ViaVersion/ViaVersion)
+
 
 ## Servers
-
 Minestom
+z
 
 
 ## Modloaders
