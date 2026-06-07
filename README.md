@@ -12,6 +12,7 @@
 
 ### Plugins
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion)
+- [Velocircon](https://github.com/code-lime/Velocircon)
 
 
 ## Servers
