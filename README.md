@@ -1,24 +1,45 @@
 # awesome-minecraft-selfhosting
 
-> [!NOTE]
-> This is a draft and will be sorted later
+A list of awesome resources and software to self-host Minecraft servers and networks.
 
+## Tools
+
+- [mrpack-install](https://github.com/nothub/mrpack-install) - Modpack server deployment.
 
 ## Proxies
 
 ### Implementations
-- [Gate](https://github.com/minekube/gate)
-- [Velocity](https://github.com/PaperMC/Velocity)
+- [Gate](https://gate.minekube.com/) - Minecraft proxy written in Golang.
+- [Velocity](https://papermc.io/software/velocity/) - Minecraft proxy written in Java (easy to build plugins for).
 
 ### Plugins
-- [ViaVersion](https://github.com/ViaVersion/ViaVersion)
-- [Velocircon](https://github.com/code-lime/Velocircon)
 
+- [ViaVersion](https://viaversion.com/) - Allow players to join with non-matching versions.
+- [Allowlist](https://modrinth.com/plugin/velocity-allowlist) - Simple player allowlist for Velocity.
+- [Velocircon](https://github.com/code-lime/Velocircon)
 
 ## Servers
 
 ### Libraries
-- [Minestom](https://github.com/Minestom/Minestom)
+- [Minestom](https://github.com/Minestom/Minestom) - Library for developing Minecraft servers without Mojang/Microsoft code.
+
+### Implementations
+- [custom-lobby](https://github.com/self-crafted/custom-lobby) - Static lobby server built using Minestom.
+
+
+### Modloaders
+
+- [Fabric](https://fabricmc.net/) - Lightweight mod loader
+- [Quilt](https://quiltmc.org/en/) - Fork of Fabric / Modding toolchain
+
+### Mods
+
+- [SignedVelocity](https://modrinth.com/mod/signedvelocity) - Allow signed chat modification on Velocity proxy.
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Make chat unreportable.
+- [Lithium](https://modrinth.com/mod/lithium) - Optimization: game logic.
+- [Krypton](https://modrinth.com/mod/krypton) - Optimization: network.
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) - Optimization: memory.
+- [Where is it](https://modrinth.com/mod/where-is-it) - Search for items in nearby inventories.
 
 ### Mods
 - [Slumber](https://github.com/Tater-Certified/Slumber)
@@ -31,6 +52,7 @@
 ## Services
 
 Modrinth
+Hangar
 
 
 ---
