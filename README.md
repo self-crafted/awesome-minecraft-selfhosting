@@ -41,19 +41,17 @@ A list of awesome resources and software to self-host Minecraft servers and netw
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - Optimization: memory.
 - [Where is it](https://modrinth.com/mod/where-is-it) - Search for items in nearby inventories.
 
-### Mods
 - [Slumber](https://github.com/Tater-Certified/Slumber)
-- [Lithium](https://github.com/CaffeineMC/lithium)
 - [Clumps](https://github.com/jaredlll08/Clumps)
-- [Krypton](https://github.com/astei/krypton)
-- [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports)
-- [FerriteCore](https://github.com/malte0811/FerriteCore)
 
 ## Services
 
 Modrinth
 Hangar
 
+## Resources
+
+- [Minecraft Wiki](https://minecraft.wiki) - Rather technical wiki.
 
 ---
 
